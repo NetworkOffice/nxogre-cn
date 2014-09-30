@@ -11,5 +11,4 @@ h2. 前言
 h2. 关于本教程
 
 本教程完全是根据betajaen写的nxogre英文原版教程翻译而来，不存在机器翻译。文档格式采用的textfile，部分也采用markdown格式。
-个人感觉textfile实在是太强大了，甚至比html都强大，都简便。国外wiki教程用的都是textfile，因此强烈建议大家学会textfile，也方便
-之间的交流。
+个人感觉textfile实在是太强大了，甚至比html都强大，都简便。国外wiki教程用的都是textfile，因此强烈建议大家学会textfile，也方便彼此之间的交流。
