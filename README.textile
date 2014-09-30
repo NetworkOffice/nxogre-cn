@@ -1,5 +1,3 @@
-nxogre-cn
-=========
 h1. 欢迎来到NxOgre中文版wiki
 
 h2. 前言
